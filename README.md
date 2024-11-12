@@ -4,7 +4,7 @@ Builds:
  gcc syscall.c -static -nostdlib -fno-stack-protector -o syscall
 ```
 
- My version API of linux kernel can run functions:
+ My version API of linux kernel have functions:
 
    * `create clone`
    * `create clone3`
