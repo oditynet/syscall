@@ -12,3 +12,5 @@ Builds:
    * `print numbers`
    * `sleep`
    * `exit`
+
+About sys call you can read on https://www.chromium.org/chromium-os/developer-library/reference/linux-constants/syscalls/
